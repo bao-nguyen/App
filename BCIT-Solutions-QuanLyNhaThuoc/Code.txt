@@ -1,0 +1,22 @@
+/* ========================
+=== Thu tu tao danh muc ===
+=========================*/
+
+DESIGN
+- Tao Winform.
+- Keo tha GridControl (Data & Analytics) cua DevExpress.
+	+ Chon anchor : Top, Left, Right, Bootom.
+- Clcik mui ten o tren cung ben phai cua GridControl -> Chon "Run Designer".
+- Doi ten "Name" cua GridControl và GridView.
+	+ MultiSelectMode (OptionSelection): Chuc nang chon nhieu dong.
+	+ NewItemRowPosition (OptionView): Chuc nang them dong moi.
+	+ ShowAutoFilterRow (OptionView): Chuc nang filter.
+- Chon tab "Columns" de them va thay doi thong tin cac cot can hien thi.
+	+ Chu y cac truong du lieu: Name, FieldName, Caption, Width.
+	+ Doi voi cac cot ma (ID) chon option: Visible = false de khong hien thi.
+- Keo tha ControlNavigator.
+- Chinh trong properties cac tham so nhu: NavigatableControl, TextLocation, cac phim chuc nang nhu them, xoa, sua.
+- Keo tha cac button Xoa, Thoat,....
+
+CODE
+- Them moi class DTO, DAO, BUS

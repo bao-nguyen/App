@@ -1,0 +1,22 @@
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\bin\Debug\Systemb.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\bin\Debug\Systemb.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\bin\Debug\Systemd.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\bin\Debug\SystemFunctions.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\bin\Debug\Systemt.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\bin\Debug\Systemd.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\bin\Debug\SystemFunctions.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\bin\Debug\Systemt.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\obj\Debug\Systemb.csprojResolveAssemblyReference.cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\obj\Debug\Systemb.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\Systemb\obj\Debug\Systemb.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\obj\Debug\Systemb.csprojResolveAssemblyReference.cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\bin\Debug\Systemb.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\bin\Debug\Systemb.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\bin\Debug\Systemd.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\bin\Debug\SystemFunctions.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\bin\Debug\Systemt.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\bin\Debug\Systemd.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\bin\Debug\SystemFunctions.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\bin\Debug\Systemt.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\obj\Debug\Systemb.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemb\obj\Debug\Systemb.pdb

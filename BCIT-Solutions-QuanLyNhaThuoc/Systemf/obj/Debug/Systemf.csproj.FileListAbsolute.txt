@@ -1,0 +1,13 @@
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\obj\Debug\Systemf.csprojResolveAssemblyReference.cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\Systemf.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\Systemf.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\Systemb.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\Systemt.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\Systemd.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\SystemFunctions.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\Systemb.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\Systemt.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\Systemd.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\bin\Debug\SystemFunctions.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\obj\Debug\Systemf.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemf\obj\Debug\Systemf.pdb

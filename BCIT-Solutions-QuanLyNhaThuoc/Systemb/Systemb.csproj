@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6505669D-9313-4F86-989D-7BC3150B6C30}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Systemb</RootNamespace>
+    <AssemblyName>Systemb</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChucNangBUS.cs" />
+    <Compile Include="DonViTinhBUS.cs" />
+    <Compile Include="HangHoaBUS.cs" />
+    <Compile Include="NhaCungCapBUS.cs" />
+    <Compile Include="KhachHangBUS.cs" />
+    <Compile Include="ViTriBUS.cs" />
+    <Compile Include="HoatChatChinhBUS.cs" />
+    <Compile Include="NhomNhaCungCapBUS.cs" />
+    <Compile Include="NoiSanXuatBUS.cs" />
+    <Compile Include="NhomHangHoaBUS.cs" />
+    <Compile Include="LoaiHangHoaBUS.cs" />
+    <Compile Include="HangSanXuatBUS.cs" />
+    <Compile Include="PhanQuyenBUS.cs" />
+    <Compile Include="NguoiDungBUS.cs" />
+    <Compile Include="ChucDanhBUS.cs" />
+    <Compile Include="PhanHeBUS.cs" />
+    <Compile Include="NhomKhachHangBUS.cs" />
+    <Compile Include="BacSyBUS.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Systemd\Systemd.csproj">
+      <Project>{59ddf1cf-bbbd-4f72-ad96-8e8acbb47ab5}</Project>
+      <Name>Systemd</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SystemFunctions\SystemFunctions.csproj">
+      <Project>{07cfd1c5-4ce9-45dd-9dd5-f6b9389c2d7e}</Project>
+      <Name>SystemFunctions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Systemt\Systemt.csproj">
+      <Project>{bb190a86-5e8d-4ba7-a0cd-dc0ec781f3eb}</Project>
+      <Name>Systemt</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

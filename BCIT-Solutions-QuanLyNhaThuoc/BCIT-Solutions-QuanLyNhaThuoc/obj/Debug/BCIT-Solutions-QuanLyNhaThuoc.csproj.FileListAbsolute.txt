@@ -1,0 +1,104 @@
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe.config
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\vi\BCIT-Solutions-QuanLyNhaThuoc.resources.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemb.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\SystemFunctions.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemt.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemd.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemb.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\SystemFunctions.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemt.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemd.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.csprojResolveAssemblyReference.cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fThongTinCaNhan.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucChucNang.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucPhanHe.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucPhanQuyen.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDangNhap.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNguoiDung.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucChucDanh.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucBacSy.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNhomKhachHang.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.frmManHinhChinh.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.Properties.Resources.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.frmManHinhChinh.vi.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.csproj.GenerateResource.Cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe.licenses
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy150119\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\vi\BCIT-Solutions-QuanLyNhaThuoc.resources.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe.config
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\vi\BCIT-Solutions-QuanLyNhaThuoc.resources.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemb.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\SystemFunctions.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemt.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemd.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemb.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\SystemFunctions.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemt.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemd.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.csprojResolveAssemblyReference.cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fThongTinCaNhan.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucChucNang.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucPhanHe.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucPhanQuyen.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDangNhap.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNguoiDung.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucChucDanh.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucBacSy.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNhomKhachHang.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.frmManHinhChinh.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.Properties.Resources.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.frmManHinhChinh.vi.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.csproj.GenerateResource.Cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe.licenses
+E:\App\BCIT-Solutions-QuanLyNhaThuoc - Copy\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\vi\BCIT-Solutions-QuanLyNhaThuoc.resources.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.csprojResolveAssemblyReference.cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucHangHoa.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucHoatChatChinh.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucViTri.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNhaCungCap.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNhomNhaCungCap.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucKhachHang.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucDonViTinh.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucHangSanXuat.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucLoaiHangHoa.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNhomHangHoa.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNoiSanXuat.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fThongTinCaNhan.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucChucNang.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucPhanHe.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucPhanQuyen.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDangNhap.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNguoiDung.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucChucDanh.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucBacSy.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fDanhMucNhomKhachHang.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.frmManHinhChinh.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.Properties.Resources.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.frmManHinhChinh.vi.resources
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.csproj.GenerateResource.Cache
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe.licenses
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe.config
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\BCIT-Solutions-QuanLyNhaThuoc.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\vi\BCIT-Solutions-QuanLyNhaThuoc.resources.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemb.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\SystemFunctions.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemt.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemd.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemb.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\SystemFunctions.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemt.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemd.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\vi\BCIT-Solutions-QuanLyNhaThuoc.resources.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.exe
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT-Solutions-QuanLyNhaThuoc.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemf.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\bin\Debug\Systemf.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\BCIT-Solutions-QuanLyNhaThuoc\obj\Debug\BCIT_Solutions_QuanLyNhaThuoc.fTest.resources

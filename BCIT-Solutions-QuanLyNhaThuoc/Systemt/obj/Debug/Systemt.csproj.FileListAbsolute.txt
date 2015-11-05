@@ -1,0 +1,5 @@
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemt\bin\Debug\Systemt.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemt\bin\Debug\Systemt.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemt\obj\Debug\Systemt.dll
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemt\obj\Debug\Systemt.pdb
+E:\App\BCIT-Solutions-QuanLyNhaThuoc\Systemt\obj\Debug\Systemt.csprojResolveAssemblyReference.cache
